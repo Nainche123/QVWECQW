@@ -1,0 +1,5 @@
+NEXIVO HUB 로그인 모드
+
+웹사이트 로그인은 일반 아이디/비밀번호 방식만 사용합니다.
+Google/Discord 웹 로그인 OAuth는 비활성화되어 있으며 별도 Client ID/Secret/Redirect URI가 필요하지 않습니다.
+Discord 봇은 웹사이트 로그인과 별개로 /라이센스 <라이선스코드> 방식으로 인증합니다.
